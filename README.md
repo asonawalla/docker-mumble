@@ -1,7 +1,5 @@
 # docker-mumble
 
-[![Build Status](https://travis-ci.org/asonawalla/docker-mumble.svg?branch=master)](https://travis-ci.org/asonawalla/docker-mumble)
-
 A nice and easy way to get a Mumble server up and running using docker. For help
 on getting started with docker see the [official getting started guide][0]. For
 more information on Mumble and check out its [website][1].
