@@ -1,2 +1,0 @@
-script:
-  - docker build -t asonawalla/mumble .
